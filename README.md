@@ -1,9 +1,9 @@
-# ARAFATDEV — мой путь в DevOps
+# ARAFATDEV — My Progress
 
 Старт: 1 декабря 2025  
-Цель к 30 годам: Junior+ DevOps → 250–400 тыс. руб./мес.
+Junior+ DevOps  
 
 День 1: Ubuntu + Git + первый коммит ✓
 
-Я — arfatdev.  
-Будущее уже началось.
+Я — arafatdev.  
+Начало.
